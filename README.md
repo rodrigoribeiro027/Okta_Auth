@@ -2,7 +2,6 @@
 
 Sistema com autenticação do google com serviços da okta
 
-![img]()
 
 
 Este projeto utiliza o `json-server` para simular uma API RESTful para criar e excluir posts.
@@ -11,7 +10,11 @@ Este projeto utiliza o `json-server` para simular uma API RESTful para criar e e
 
 Crie um .env na Raiz do projeto
 
-![App]()
+![App](https://github.com/rodrigoribeiro027/Okta_Auth/blob/main/src/assets/.env.png)
+
+No app do Okta 
+
+![img](https://github.com/rodrigoribeiro027/Okta_Auth/blob/main/src/assets/Domain-clientID.png)
 
 
 Para instalar as dependências do projeto, execute:
